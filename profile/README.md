@@ -1,3 +1,3 @@
 # welcome to penguinwaves
 
-describe it here lol
+An platform for music i guess?
