@@ -1,7 +1,7 @@
 # Welcome to [PenguinWaves](https://waves.mubi.tech/)
 The only music platform nowadays that lacks bullshit.
 
-*What we refer to in this page as "bullshit" means unnecessary and unwanted features that make the experience of using the service worse for a lot of users.*
+*What we refer to in this page as "bullshit" means unnecessary and unwanted features that make the experience of using the service worse for a majority of users.*
 
 We have a robust and easy-to-use platform, that anyone can try.
 
